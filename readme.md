@@ -50,7 +50,7 @@ If you have any questions, please email to: liugzh3@mail.sysu.edu.cn
 If you find the SKTS-OPS-SPCL method useful in your research, we would appreciate it if you cite it.<br>
 @article{,<br>
   title={An Ordinal Pattern Similarity-Guided Supervised Prototype Contrastive Learning Framework with Enhanced Token Selection Module for Sleep Apnea Detection Based on Wearable PPG Bracelet},<br>
-  author={Weiyan Qiu, Yanxun Lu, Zhuo Chen, Changhong Wang and Guanzheng Liu},<br>
+  author={Weiyan Qiu,  Zhuo Chen, Yanxun Lu, Changhong Wang and Guanzheng Liu},<br>
   journal={},<br>
   year={2025},<br>
 }
