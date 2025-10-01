@@ -16,7 +16,7 @@ It contained PPG signals from 92 cases of wearable bracelets, with synchronized 
 ### **Apnea-PPG database** <br> 
 It includes 110 PPG records in a single-lead at night. It was collected from The Sixth Affiliated Hospital of Sun Yat-sen University.The sampling frequency of the wearable bracelets was 100 Hz.<br>
 ### **Apnea-ECG database** <br> 
-The data consist of 70 records, divided into a learning set of 35 records (a01 through a20, b01 through b05, and c01 through c10), and a test set of 35 records (x01 through x35).The sampling frequency of the wearable bracelets was 100 Hz.<br>
+The data consist of 70 records, divided into a learning set of 35 records (a01 through a20, b01 through b05, and c01 through c10), and a test set of 35 records (x01 through x35).The sampling frequency was 100 Hz.<br>
 
 ## Input Signal
 The CSV file contains six columns: <br> 
