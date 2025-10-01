@@ -1,7 +1,7 @@
 # Code for  OSA Detection Based on SKTS-OPS-SPCL Method
 This repository provides the code for paper:
 An Ordinal Pattern Similarity-Guided Supervised Prototype Contrastive Learning Framework with Enhanced Token Selection Module for Sleep Apnea Detection Based on Wearable PPG Bracelet <br>
-<img alt="Fig.1. The overall structural schematic diagram of the proposed OPS-SKTS-SPCL method" src="C:\Users\Administrator\Desktop\github\results\Fig1.bmp" title="the proposed OPS-SKTS-SPCL method"/>
+
 
 ## Introduction
 ###  we propose an ordinal pattern similarity-guided supervised prototype contrastive learning (ops-spcl) framework with enhanced token selection module. 
@@ -29,7 +29,6 @@ sort – with a shape of (24, 1).<br>
 
 ## Validity Analysis of Model
 By leveraging the OPS method, it combines the explicit construction of hard negative sample pairs and easy positive sample pairs with the supervised prototype contrastive objective to improve intra-class compactness and inter-class separability.<br>
-<img alt="Fig.2. Feature visualization depicting representation learning process." src="C:\Users\Administrator\Desktop\github\results\Fig2.bmp" title="Feature visualization"/>
 
 ## Requirements
 This project requires Python 3.8+ and the dependencies listed in requirements.txt<br>
