@@ -14,7 +14,7 @@ These results suggest that our approach holds significant potential for large-sc
 ###  **Wearable Bracelet database** <br> 
 It contained PPG signals from 92 cases of wearable bracelets, with synchronized PSG serving as the gold standard for annotating the subjects' sleep states. The sampling frequency of the wearable bracelets was 100 Hz.<br>
 ### **Apnea-PPG database** <br> 
-It includes 110 PPG records in a single-lead at night. It was collected from The Sixth Affiliated Hospital of Sun Yat-sen University.The sampling frequency of the wearable bracelets was 100 Hz.<br>
+It includes 110 PPG records in a single-lead at night. It was collected from The Sixth Affiliated Hospital of Sun Yat-sen University.The sampling frequency was 100 Hz.<br>
 ### **Apnea-ECG database** <br> 
 The data consist of 70 records, divided into a learning set of 35 records (a01 through a20, b01 through b05, and c01 through c10), and a test set of 35 records (x01 through x35).The sampling frequency was 100 Hz.<br>
 
