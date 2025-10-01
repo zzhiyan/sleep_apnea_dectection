@@ -2,7 +2,6 @@
 This repository provides the code for paper:
 An Ordinal Pattern Similarity-Guided Supervised Prototype Contrastive Learning Framework with Enhanced Token Selection Module for Sleep Apnea Detection Based on Wearable PPG Bracelet <br>
 
-
 ## Introduction
 ###  we propose an ordinal pattern similarity-guided supervised prototype contrastive learning (ops-spcl) framework with enhanced token selection module. 
 On the wearable bracelet PPG dataset, the proposed model performs well in per-segment detection, achieving 72.4% sensitivity and a 0.687 F1-score. 
@@ -27,9 +26,6 @@ entropy – with a shape of (24, 1).<br>
 entropy_sum – with a shape of (1, 1).<br>
 sort – with a shape of (24, 1).<br>
 
-## Validity Analysis of Model
-By leveraging the OPS method, it combines the explicit construction of hard negative sample pairs and easy positive sample pairs with the supervised prototype contrastive objective to improve intra-class compactness and inter-class separability.<br>
-
 ## Requirements
 This project requires Python 3.8+ and the dependencies listed in requirements.txt<br>
 You can install all dependencies with:<br>
@@ -49,7 +45,7 @@ If you have any questions, please email to: liugzh3@mail.sysu.edu.cn
 If you find the SKTS-OPS-SPCL method useful in your research, we would appreciate it if you cite it.<br>
 @article{,<br>
   title={An Ordinal Pattern Similarity-Guided Supervised Prototype Contrastive Learning Framework with Enhanced Token Selection Module for Sleep Apnea Detection Based on Wearable PPG Bracelet},<br>
-  author={Weiyan Qiu,  Zhuo Chen, Yanxun Lu, Changhong Wang and Guanzheng Liu},<br>
+  author={Weiyan Qiu, Zhuo Chen, Yanxun Lu, Changhong Wang and Guanzheng Liu},<br>
   journal={},<br>
   year={2025},<br>
 }
